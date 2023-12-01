@@ -1,0 +1,134 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl KNM04956白_front
+Ns 10.000005
+Ka 0.100000 0.100000 0.100000
+Ks 0.015000 0.015000 0.015000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl KNM04956白_front(1)
+Ns 10.000005
+Ka 0.100000 0.100000 0.100000
+Ks 0.015000 0.015000 0.015000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl KNM04956白_front(10)
+Ns 10.000005
+Ka 0.100000 0.100000 0.100000
+Ks 0.015000 0.015000 0.015000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl KNM04956白_front(11)
+Ns 10.000005
+Ka 0.100000 0.100000 0.100000
+Ks 0.015000 0.015000 0.015000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl KNM04956白_front(2)
+Ns 10.000005
+Ka 0.100000 0.100000 0.100000
+Ks 0.015000 0.015000 0.015000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl KNM04956白_front(3)
+Ns 10.000005
+Ka 0.100000 0.100000 0.100000
+Ks 0.015000 0.015000 0.015000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl KNM04956白_front(4)
+Ns 10.000005
+Ka 0.100000 0.100000 0.100000
+Ks 0.015000 0.015000 0.015000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl KNM04956白_front(5)
+Ns 10.000005
+Ka 0.100000 0.100000 0.100000
+Ks 0.015000 0.015000 0.015000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl KNM04956白_front(6)
+Ns 10.000005
+Ka 0.100000 0.100000 0.100000
+Ks 0.015000 0.015000 0.015000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl KNM04956白_front(7)
+Ns 10.000005
+Ka 0.100000 0.100000 0.100000
+Ks 0.015000 0.015000 0.015000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl KNM04956白_front(8)
+Ns 10.000005
+Ka 0.100000 0.100000 0.100000
+Ks 0.015000 0.015000 0.015000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl KNM04956白_front(9)
+Ns 10.000005
+Ka 0.100000 0.100000 0.100000
+Ks 0.015000 0.015000 0.015000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png

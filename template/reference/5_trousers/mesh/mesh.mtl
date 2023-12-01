@@ -1,0 +1,90 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl 默认织物_front(1).004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(2).004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(3).004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(4).004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(5).004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(6).002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(7).002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png

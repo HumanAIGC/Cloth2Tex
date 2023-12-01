@@ -1,0 +1,28 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl 织物.002
+Ns 40.272564
+Ka 1.000000 1.000000 1.000000
+Kd 0.031054 0.198200 0.020579
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 织物.003
+Ns 104.412506
+Ka 0.071429 0.071429 0.071429
+Kd 0.465746 0.458755 0.463993
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+map_Ka uniformDiffuse.png
+map_Kd uniformDiffuse.png
+bump -bm 1 uniformNormal.png
+map_Bump uniformNormal.png

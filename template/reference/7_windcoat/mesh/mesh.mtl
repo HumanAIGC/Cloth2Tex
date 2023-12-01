@@ -1,0 +1,233 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl 默认织物_front(1).005
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(10)
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(11)
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(12)
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(13)
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(14)
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(15)
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(16)
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(17)
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(18)
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(19)
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(2).005
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(20)
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(3).005
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(4).005
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(5).005
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(6).003
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(7).003
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(8).001
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front(9).001
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
+
+newmtl 默认织物_front.005
+Ns 78.399986
+Ka 1.000000 1.000000 1.000000
+Ks 0.042000 0.042000 0.042000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uniformDiffuse.png
+map_Bump -bm 1.000000 uniformNormal.png
